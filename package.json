@@ -2,7 +2,7 @@
   "name": "redux-end",
   "version": "0.1.0",
   "private": true,
-    "homepage" : " https://sanan4li.github.io/Simple-React-App",
+    "homepage" : " https://sanan4li.github.io/React-Redux",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
