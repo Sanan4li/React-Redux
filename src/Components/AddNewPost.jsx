@@ -21,6 +21,7 @@ class AddNewPost extends Component{
         data.id = id;
        // console.log(data);
         this.props.savePost(data);
+        this.props.history.push("/posts");
     }
     
     render(){
